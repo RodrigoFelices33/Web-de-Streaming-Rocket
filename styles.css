@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+  
+.custom-section {
+    background: linear-gradient(135deg, #000000, #7c0505, #eb2e15);
+    color: #fff;
+    padding: 2rem;
+    border-radius: 8px;
+    margin: 0;
+    
+  }
+
+  .card {
+    width: 100%;
+    max-width: 300px;
+    margin-bottom: 1rem;
+  }
+  
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .card-body {
+    padding: 1rem;
+  }
+
+  .custom-section .d-flex {
+    width: 100%;
+    justify-content: center;
+  }
+  
+  .custom-section .card {
+    margin: 0 1rem;
+  }
